@@ -2,7 +2,7 @@ package com.ajdeguzman.dw;
 
 public class Constants {
 	
-	static final String APP_NAME = "DataWeave Migrator";
+	static final String APP_NAME = "DataWeave Migrator ¯\\_(ツ)_/¯";
 	
 	public interface Labels {
 		static final String CONVERT = "Convert";
